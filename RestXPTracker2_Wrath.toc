@@ -1,0 +1,8 @@
+## Interface: 30402
+## Title: RestXPTracker2
+## Author: KUROBON
+## Version: 1.0
+## Notes: Tracks and estimates rest XP for all characters across realms. Based on RestXPTracker by Hellfire.
+## SavedVariables: RestXP_DB
+
+RestXPTracker2.lua

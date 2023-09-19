@@ -1,0 +1,8 @@
+## Interface: 100107
+## Title: RestXPTracker
+## Author: HELLFIRE
+## Version: 1.0
+## Notes: Tracks and estimates rest XP for all characters across realms.
+## SavedVariables: RestXP_DB
+
+RestXPTracker.lua
